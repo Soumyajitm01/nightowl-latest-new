@@ -10,7 +10,7 @@ module.exports = class JoinCommand extends Command {
       guildOnly: true,
       clientPermissions: ['SPEAK', 'CONNECT'],
       description:
-        'Allows an Admin to summon the bot to your voice-channel when music is playing.'
+        'Allows an Admin to summon the bot to your voice-channel when music is playing'
     });
   }
 
